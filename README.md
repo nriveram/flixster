@@ -12,7 +12,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### REQUIRED (10pts)
 - [X] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [ ] (5pts) User can view and scroll through a list of movies now playing in theaters.
+- [X] (5pts) User can view and scroll through a list of movies now playing in theaters.
 - [X] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
@@ -22,9 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 
 
-<img src="http://g.recordit.co/B6LoZQcYeK.gif" width=250><br>
+<img src="http://g.recordit.co/2KbUAnij3T.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
 
-One challenge was getting the Pod files and downloading Cocoapods through the terminal. 
+One challenge was getting the Pod files and downloading Cocoapods through the terminal. Since I am not used to using terminals, I had to figure out how to access my files which was difficult for me. Other than that, the assignment went really well I followed all the steps. But one encounter that I faced was the scrolling, I had trouble scrolling down the movie table and it took me a while to figure out that I had to drag and scroll. 
